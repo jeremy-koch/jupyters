@@ -1,4 +1,4 @@
-name: curvefitting-environment
+name: environment
 channels:
   - conda-forge
 dependencies:
