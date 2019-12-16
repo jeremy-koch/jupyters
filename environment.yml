@@ -1,0 +1,6 @@
+name: curvefitting-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
