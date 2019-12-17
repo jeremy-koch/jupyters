@@ -3,6 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - scipy.integrate
-  - scipy.optimize
-  - matplotlib.pyplot
+  - scipy
+  - matplotlib
